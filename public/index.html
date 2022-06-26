@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+<!-- 下载测试 1-->
+<button onclick='download()'>open下载</button>
+<iframe name='myFrame' style="display:none;"></iframe>
+<script>
+  function download(){
+    window.open('http://localhost:3001/admin/export','myFrame')
+  }
+</script>
+<!-- 下载测试2 -->
+<!-- <button onclick='download()'>open下载</button>
+<script>
+  function download(){
+    window.open('http://localhost:3001/admin/export')
+  }
+</script> -->
+</body>
+</html>
