@@ -124,7 +124,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -182,7 +182,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -220,7 +220,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -258,7 +258,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -296,7 +296,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -334,7 +334,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -399,7 +399,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "activity"
   },
   {
@@ -457,7 +457,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/goodsCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/goodsCtr.js",
     "groupTitle": "goods"
   },
   {
@@ -495,7 +495,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/goodsCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/goodsCtr.js",
     "groupTitle": "goods"
   },
   {
@@ -553,7 +553,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/activityCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/activityCtr.js",
     "groupTitle": "goods"
   },
   {
@@ -611,7 +611,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/goodsCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/goodsCtr.js",
     "groupTitle": "goods"
   },
   {
@@ -649,7 +649,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/kindsCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/kindsCtr.js",
     "groupTitle": "kind"
   },
   {
@@ -687,7 +687,7 @@ define({ "api": [
       ]
     },
     "version": "0.0.0",
-    "filename": "/Users/baba/Desktop/gp-29/api/homeApi/controllers/versionCtr.js",
+    "filename": "/Users/baba/Desktop/api/front/controllers/versionCtr.js",
     "groupTitle": "version"
   }
 ] });

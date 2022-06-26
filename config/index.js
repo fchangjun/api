@@ -1,4 +1,3 @@
 module.exports ={
-  adminPort:3001,
-  homePort:3002
+  port: 3001
 }
